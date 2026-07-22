@@ -17,7 +17,7 @@ Las principales variables incluidas en el análisis son:
 - Zona.
 - Edad.
 - Experiencia docente.
-- Existencia y calidad de protocolos.
+- Existencia y calidad de protocolos que eviten o ayuden como actuar en caso de violencia.
 - Presencia o ausencia de violencia.
 
 ## Técnicas utilizadas
@@ -35,6 +35,7 @@ Las principales variables incluidas en el análisis son:
 ## Herramientas
 
 - SPSS.
+- R.
 - Excel.
 - PowerPoint.
 
@@ -67,8 +68,8 @@ Este trabajo debe interpretarse con prudencia. El modelo permite identificar aso
 
 Proyecto realizado por:
 
+- Jorge Boullosa Conde
 - Laura Davara Sáez.
 - Claudia Martín Novo.
-- Jorge Boullosa Conde.
 
 Con la colaboración de ADEC Pontevedra.
