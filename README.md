@@ -61,8 +61,10 @@ Este trabajo debe interpretarse con prudencia. El modelo permite identificar aso
 
 ## Archivos del repositorio
 
-- `violencia_profesorado_regresion_logistica.pdf`: presentación del proyecto.
 - `README.md`: descripción general del análisis.
+- `Trabajo_ADEC_Violencia-Profesorado.pptx`: presentación del proyecto en PowerPoint.
+- `Trabajo_ADEC_Violencia-Profesorado_pdf.pdf`: presentación del proyecto en PDF.
+- `bbdd adc.xlsx`: base de datos recogida (ya limpia) en Excel.
 
 ## Autoría
 
